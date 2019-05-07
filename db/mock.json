@@ -1,0 +1,28 @@
+{
+  "animes": [
+    {
+      "name": "Hunter x Hunter",
+      "cover": "hunter_x_hunter.jpg"
+    },
+    {
+      "name": "Durarara!!",
+      "cover": "durara.jpg"
+    },
+    {
+      "name": "Magi: The Labyrinth of Magic",
+      "cover": "magi.jpg"
+    },
+    {
+      "name": "Kuroko no Basket",
+      "cover": "kuroko_no_basket.jpg"
+    },
+    {
+      "name": "Diamond no Ace",
+      "cover": "dia_no_ace.jpg"
+    },
+    {
+      "name": "Haikyuu",
+      "cover": "haikyuu.jpg"
+    }
+  ]
+}
